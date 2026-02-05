@@ -48,23 +48,6 @@ Online exam platform with student login, test submission, and result management.
 
 ---
 
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 📫 Connect With Me
 - 📧 Email: sanketmpawar10@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/sanket-pawar-sp96
